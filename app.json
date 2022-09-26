@@ -1,0 +1,65 @@
+[
+  {
+    "precio": 4500,
+    "id": 1,
+    "title": "Remera Asesina",
+    "desc": "Remera color negro 100% algodón estampada",
+    "url": "assets/remeraLali.png"
+  },
+  {
+    "precio": 12000,
+    "id": 2,
+    "title": "Buzo Disciplina",
+    "desc": "Buzo color violeta 100% algodón estampado",
+    "url": "assets/buzoLali.png"
+  },
+  {
+    "precio": 16000,
+    "id": 3,
+    "title": "Campera Eclipse",
+    "desc": "Campera violeta 100% poliamida, 100% poliéster estampada",
+    "url": "assets/camperaLali.png"
+  },
+  {
+    "precio": 8000,
+    "id": 4,
+    "title": "Jean Histeria",
+    "desc": "Jean elastizado tiro alto ultraslim 98% algodón 2% spandex",
+    "url": "assets/jeanLali.png"
+  },
+  {
+    "precio": 5500,
+    "id": 5,
+    "title": "Remerón New Era",
+    "desc": "Remera negro 100% algodón con ilustración estampada",
+    "url": "assets/remera2Lali.png"
+  },
+  {
+    "precio": 5000,
+    "id": 6,
+    "title": "Short Boomerang",
+    "desc": "Short tiro medio elastizado ultraslim",
+    "url": "assets/shortLali.png"
+  },
+  {
+    "precio": 4500,
+    "id": 7,
+    "title": "Remera Diva",
+    "desc": "Remera color negro 100% algodón con ilustración estampada",
+    "url": "assets/remera1Lali.png"
+  },
+  {
+    "precio": 5000,
+    "id": 8,
+    "title": "Falda Laligera",
+    "desc": "Falda de jean color azul elastizada 100% algodón",
+    "url": "assets/faldaLali.png"
+  },
+  {
+    "precio": 4500,
+    "id": 9,
+    "title": "Remera Soy",
+    "desc": "Remera color negro 100% algodón con ilustración estampada",
+    "url": "assets/remera3Lali.png"
+  }
+]
